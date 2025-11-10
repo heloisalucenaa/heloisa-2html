@@ -1,0 +1,28 @@
+body {
+background-color: #1408b6;
+color: rgb(247, 242, 242);
+font-family: "Bai Jamjuree", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+button {
+background-color: #3191eb;
+color: rgb(247, 240, 240);
+font-family: "Bai Jamjuree", sans-serif;
+}
+.passo {
+display: none;
+}
+.passo.ativo {
+display:block;
+}
+main {
+text-align: center;
+max-width: 90%;
+}
+img {
+max-width: 90%;
+}
